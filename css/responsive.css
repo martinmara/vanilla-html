@@ -194,7 +194,6 @@
 
 @media (max-width: 575px) {
   .logo {
-    width: 40%;
     text-align: center !important;
     padding-bottom: 6px;
     float: left;
