@@ -836,6 +836,7 @@ ul.conta li {
   font-size: 17px;
   display: inline-block;
   padding-right: 70px;
+  max-width: 400px;
 }
 
 ul.conta li:last-child {
