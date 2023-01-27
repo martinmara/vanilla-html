@@ -278,7 +278,7 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
   padding: 8px 20px;
-  color: #2e2d2d;
+  color: gray;
   font-size: 16px;
   line-height: 20px;
   font-weight: 500;
@@ -286,16 +286,14 @@ button {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-  color: #fff;
-  background-color: #2e2d2d;
+  color: black;
 }
 
 .navigation.navbar-dark .navbar-nav .active > .nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show > .nav-link {
-  color: #fff;
-  background-color: #2e2d2d;
+  color: black;
 }
 
 .navbar-expand-md .navbar-nav {
@@ -553,6 +551,7 @@ ul.social_icon li a:hover {
   font-size: 17px;
   line-height: 28px;
   padding-bottom: 40px;
+  max-width: 450px;
 }
 
 .about_img {
@@ -825,7 +824,8 @@ ul.social_icon li a:hover {
 }
 
 ul.conta {
-  text-align: left;
+  text-align: center;
+  margin: 0 auto;
   margin-bottom: 55px;
 }
 
@@ -977,8 +977,4 @@ ul.link_menu li a:hover {
 
 .margin_0 {
   margin: 0 !important;
-}
-
-li {
-  font-weight: 599;
 }
