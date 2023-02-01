@@ -1,1 +1,42 @@
+.prices {
+  color: white;
+}
 
+.general-li {
+  color: white;
+}
+
+.title h2 {
+  font-size: 45px;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+.title span {
+  color: pink;
+}
+.line {
+  font-weight: bold;
+  color: pink;
+  border: 2px solid pink;
+}
+
+.price-box-inner {
+  height: 300px;
+}
+
+.list-price {
+  padding-top: 50px;
+  margin-left: 50px;
+}
+
+footer {
+  background-color: black;
+}
+.copyright {
+  background-color: black;
+}
+.copyright p {
+  font-size: 14px !important;
+  color: gray;
+}

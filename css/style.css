@@ -324,7 +324,7 @@ ul.social_icon li a {
 
 ul.social_icon li a:hover {
   color: #fff;
-  background-color: #fa8c17;
+  background-color: #faafba;
 }
 
 /** banner section **/
@@ -366,8 +366,8 @@ ul.social_icon li a:hover {
 }
 
 .get_btn {
-  background-color: #2e2d2d;
-  color: #fff;
+  background-color: #faafba;
+  color: white;
   text-align: center;
   max-width: 216px;
   width: 100%;
@@ -378,7 +378,7 @@ ul.social_icon li a:hover {
 }
 
 .get_btn:hover {
-  color: #fa8c17;
+  color: black;
 }
 
 .bann_img {
