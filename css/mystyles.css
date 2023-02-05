@@ -129,3 +129,7 @@ footer {
 .card-avatar:hover {
   transform: scale(1.1);
 }
+
+.price-box-inner {
+  margin-bottom: 40px;
+}
