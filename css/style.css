@@ -860,7 +860,7 @@ ul.link_menu li {
 }
 
 ul.link_menu li.active a {
-  color: #fa8c17;
+  color: rgb(250, 175, 186);
 }
 
 ul.link_menu li a {
@@ -872,7 +872,7 @@ ul.link_menu li a {
 }
 
 ul.link_menu li a:hover {
-  color: #fa8c17;
+  color: rgb(250, 175, 186);
 }
 
 .bottom_form {
