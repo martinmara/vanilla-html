@@ -257,6 +257,7 @@ button {
 .logo a img {
   z-index: 9999;
   position: relative;
+  margin-top: 20px;
 }
 
 .logo::before {
