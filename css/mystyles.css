@@ -171,3 +171,9 @@ th {
 .table tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+.kontakt {
+  font-size: 100px;
+  text-align: center;
+  margin: 0 auto;
+}
