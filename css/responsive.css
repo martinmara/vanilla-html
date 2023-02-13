@@ -198,6 +198,9 @@
     text-align: center !important;
     float: left;
   }
+  .col-md-6{
+    margin-top: 40px;
+  }
   .logo::before {
     width: 292px;
   }
